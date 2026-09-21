@@ -23,6 +23,9 @@ To write a Python function to accept a string and form a new string by removing 
 ### PROGRAM
 
 ```pyhton
+# Reg.No- 212223060191
+# Name- Oviya K P
+
 def remove(input_string):
     vowels = "aeiouAEIOU"
     result_string = ''.join(char for char in input_string if char not in vowels)
