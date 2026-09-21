@@ -23,6 +23,9 @@ To write a Python function that accepts  a python function that accepts the stri
 ### PROGRAM
 
 ```python
+# Reg.No- 212223060191
+# Name- Oviya K P
+
 def slice(str1):
     text=str1[2:10:2]
     print(f"The sliced string is '{text}'")
